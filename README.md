@@ -297,9 +297,3 @@ Sou estudante de <strong>Engenharia de Software</strong> na Universidade Federal
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Obrigado%20pela%20visita!%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
 
-<div align="center">
-  
-### ⭐ Se você gostou do meu perfil, considere dar uma estrela nos meus repositórios! ⭐
-
-</div>
-
