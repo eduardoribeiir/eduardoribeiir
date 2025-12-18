@@ -1,4 +1,6 @@
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Luiz%20Eduardo%20Paiva%20Ribeiro&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+</div>
 
 <div align="center">
   
@@ -150,4 +152,6 @@ Desenvolvendo TCC sobre **"Reuso de Requisitos de Software e o Impacto do Suport
   <img src="https://komarev.com/ghpvc/?username=eduardoribeiir&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil"/>
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+</div>
