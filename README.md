@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=38&duration=3000&pause=1000&color=00d9ff&center=true&vCenter=true&width=1000&lines=Eduardo+Ribeiro;Software+Engineer;Full+Stack+Developer;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=38&duration=3000&pause=1000&color=00d9ff&center=true&vCenter=true&width=1000&lines=Eduardo+Ribeiro;Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -22,10 +22,11 @@
 ### 👨‍💻 Quem sou eu
 
 <p>
-Sou estudante de <strong>Engenharia de Software</strong> na Universidade Federal do Ceará (UFC). Meu objetivo é criar aplicações que unam performance técnica com uma excelente experiência de usuário. Tenho forte base em desenvolvimento Web e estou sempre explorando como a <strong>Inteligência Artificial</strong> pode otimizar processos de engenharia.
+Sou estudante de <strong>Engenharia de Software</strong> na Universidade Federal do Ceará (UFC). Meu objetivo é criar aplicações que unam performance técnica com uma excelente experiência de usuário. Tenho conhecimento amplo em desenvolvimento web e desktop e estou sempre explorando como a <strong>Inteligência Artificial</strong> pode otimizar processos de reutilização de requisitos atraves de uma revisão sistematica da literatura, no momento tambem estou me aperfeiçõando em desenvolvimento mobile.
 </p>
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"Todo mundo deveria aprender a programar, porque isso ensina a pensar."* — Steve Jobs 
+
 
 <br>
 
