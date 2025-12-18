@@ -35,66 +35,94 @@
 
 ## 🎯 Sobre Mim
 
+<div align="left">
+
 Sou **Luiz Eduardo Paiva Ribeiro**, estudante de **Engenharia de Software** na **Universidade Federal do Ceará (UFC)**. Desenvolvedor Full Stack apaixonado por criar soluções tecnológicas escaláveis, com foco em Clean Architecture e boas práticas de desenvolvimento.
 
-### 💡 Minhas Áreas de Atuação
+</div>
 
-- **Frontend Development**: React, Next.js, Vue.js, TypeScript
-- **Backend Development**: Node.js, Django, FastAPI, NestJS  
-- **Mobile Development**: React Native, Flutter
-- **DevOps & Cloud**: Docker, AWS, CI/CD
-- **UX/UI Design**: Prototipação e design de interfaces no Figma
+<br>
 
-### 🎓 Pesquisa & Desenvolvimento
+<div align="center">
 
-Atualmente desenvolvo meu TCC sobre **"Reuso de Requisitos de Software e o Impacto do Suporte da Inteligência Artificial"**, explorando como a IA pode revolucionar a Engenharia de Requisitos e melhorar a qualidade do software.
+### 💼 Áreas de Especialização
 
-### 🚀 O que me motiva
+</div>
 
-Busco constantemente aprender novas tecnologias e aplicar os princípios SOLID e Clean Architecture em projetos reais. Acredito que código bem escrito é código que comunica sua intenção claramente, e que a melhor solução é sempre a mais simples que resolve o problema.
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue" /><br>
+<sub><b>Frontend</b></sub><br>
+<sub>React • Next.js • Vue.js</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nodejs,django,fastapi" /><br>
+<sub><b>Backend</b></sub><br>
+<sub>Node.js • Django • FastAPI</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=flutter,react" /><br>
+<sub><b>Mobile</b></sub><br>
+<sub>React Native • Flutter</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=docker,aws,figma" /><br>
+<sub><b>DevOps & Design</b></sub><br>
+<sub>Docker • AWS • Figma</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 🎓 Pesquisa Acadêmica
+
+**TCC**: *Reuso de Requisitos de Software e o Impacto do Suporte da Inteligência Artificial*
+
+Explorando como a IA pode revolucionar a Engenharia de Requisitos e otimizar a qualidade do software
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🌟 Princípios & Filosofia
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<h4>💻 Código Limpo</h4>
+<sub>Código bem escrito comunica sua intenção claramente</sub>
+</td>
+<td align="center" width="33%">
+<h4>🏗️ Arquitetura Sólida</h4>
+<sub>Sistemas escaláveis e de fácil manutenção</sub>
+</td>
+<td align="center" width="33%">
+<h4>🚀 Inovação Contínua</h4>
+<sub>Sempre aprendendo e evoluindo</sub>
+</td>
+</tr>
+</table>
 
 <br>
 
 ## 💻 Stack Tecnológica
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br><strong>React</strong>
-    </td>
-    <td align="center" width="200">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br><strong>TypeScript</strong>
-    </td>
-    <td align="center" width="200">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="200">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br><strong>Docker</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-      <br><strong>AWS</strong>
-    </td>
-    <td align="center" width="200">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-      <br><strong>Nginx</strong>
-    </td>
-    <td align="center" width="200">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-      <br><strong>MySQL</strong>
-    </td>
-    <td align="center" width="200">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br><strong>GitHub</strong>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,typescript,javascript,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,python,java,cpp" />
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,docker,aws,git,github" />
+<img src="https://skillicons.dev/icons?i=vscode,figma,linux" />
+
+</div>
 
 <br>
 
@@ -207,44 +235,34 @@ Busco constantemente aprender novas tecnologias e aplicar os princípios SOLID e
 
 <br>
 
-## 🎓 Pesquisa Acadêmica
-
-<table align="center">
-  <tr>
-    <td align="center" width="100%">
-      <h3>📚 TCC - Trabalho de Conclusão de Curso</h3>
-      <p><strong>"Reuso de Requisitos de Software e o Impacto do Suporte da Inteligência Artificial: Uma Revisão Sistemática da Literatura"</strong></p>
-      <br>
-      <table>
-        <tr>
-          <td>🔬</td>
-          <td>Investigando como a IA pode revolucionar a Engenharia de Requisitos</td>
-        </tr>
-        <tr>
-          <td>🎯</td>
-          <td>Foco em otimização do reuso e melhoria da qualidade do software</td>
-        </tr>
-        <tr>
-          <td>📖</td>
-          <td>Revisão sistemática das principais pesquisas da área</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## 🎨 Experiência em UX/UI
+## � Experiência em UX/UI
 
 <div align="center">
 
-| 💼 **Competências** | 📝 **Descrição** |
-|:------------------:|:----------------:|
-| ✨ **Prototipação** | Design de interfaces no Figma com foco em usabilidade |
-| 📋 **Requisitos** | Levantamento e análise detalhada de requisitos |
-| 👥 **UX Research** | Pesquisa e testes com usuários reais |
-| 🎯 **Design Centrado** | Sistemas focados na experiência do usuário |
+<table>
+<tr>
+<td align="center" width="25%">
+<img height="60" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
+<br><b>Prototipação</b>
+<br><sub>Design no Figma</sub>
+</td>
+<td align="center" width="25%">
+<img height="60" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60">
+<br><b>Requisitos</b>
+<br><sub>Análise detalhada</sub>
+</td>
+<td align="center" width="25%">
+<img height="60" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
+<br><b>UX Research</b>
+<br><sub>Testes com usuários</sub>
+</td>
+<td align="center" width="25%">
+<img height="60" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
+<br><b>Design Centrado</b>
+<br><sub>Foco no usuário</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
