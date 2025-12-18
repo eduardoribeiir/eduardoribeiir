@@ -35,119 +35,38 @@
 
 ## 🎯 Sobre Mim
 
-<div align="center">
-  
-<table>
-<tr>
-<td width="60%" valign="top">
-
-Olá! 👋 Sou **Luiz Eduardo Paiva Ribeiro**, estudante de **Engenharia de Software** pela **Universidade Federal do Ceará (UFC)**. Apaixonado por tecnologia e inovação, transformo ideias em soluções digitais robustas e escaláveis.
-
-### 💼 Minha Jornada
-
-Com experiência sólida em **desenvolvimento Full Stack**, atuo desde a concepção até a entrega de produtos digitais, sempre priorizando **qualidade de código**, **arquitetura limpa** e **experiência do usuário**. Meu diferencial está na capacidade de unir conhecimentos técnicos profundos com visão estratégica de produto.
-
-</td>
-<td width="40%" valign="top">
-
-<div align="center">
-  
-### 📌 Quick Stats
-
-```text
-📍 Quixadá, CE - Brasil
-🎓 Engenharia de Software
-🏛️ UFC - Universidade Federal
-💼 Full Stack Developer
-🧠 Clean Architecture
-☕ Coffee Driven Developer
-```
-
-<img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=00d9ff"/>
-<img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=00ffc8"/>
-<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=00d9ff"/>
-<img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=00ffc8"/>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Especialidades
-
-```yaml
-Desenvolvimento:
-  Frontend: React, Next.js, Vue.js
-  Backend: Node.js, Django, FastAPI
-  Mobile: React Native, Flutter
-  
-Arquitetura:
-  - Clean Architecture
-  - Microservices
-  - Design Patterns
-  - SOLID Principles
-  
-DevOps:
-  - Docker & Kubernetes
-  - CI/CD Pipelines
-  - AWS Cloud Services
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Foco Atual
-
-```yaml
-Estudando:
-  - React Native & Flutter
-  - Microservices Architecture
-  - AI in Software Engineering
-  
-Pesquisando:
-  - IA em Engenharia de Requisitos
-  - Reuso de Componentes
-  - Software Quality Metrics
-  
-Desenvolvendo:
-  - Projetos Open Source
-  - Aplicações Escaláveis
-  - Interfaces Intuitivas
-```
-
-</td>
-</tr>
-</table>
+<img align="right" alt="Baby Yoda Coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBjYzFwNGFxZmxhcWcwcXl2aDFxMGp3cGRtN2pxdHQ0YnQ4YzVodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/krkrHAEodHgzP72rTI/giphy.gif">
 
 <div align="left">
 
-### 🌟 O que me move
-
-- 💻 **Código Limpo**: Acredito que código bem escrito é código que conta uma história
-- 🏗️ **Arquitetura Sólida**: Construo sistemas pensando em escalabilidade e manutenibilidade
-- 🎨 **UX/UI**: Design não é apenas como parece, mas como funciona
-- 🤖 **IA & Inovação**: Explorando como a inteligência artificial pode revolucionar a engenharia de software
-- 📚 **Aprendizado Contínuo**: Sempre buscando novos desafios e conhecimentos
-
-### ⚡ Curiosidades
-
-- ☕ Programo melhor com uma boa xícara de café ao lado
-- 🎓 Desenvolvendo pesquisa acadêmica sobre IA e Engenharia de Requisitos
-- 🎯 Apaixonado por resolver problemas complexos com soluções elegantes
-- 🌱 Contribuo para a comunidade tech através de projetos open source
+```typescript
+const eduardo = {
+    name: "Luiz Eduardo Paiva Ribeiro",
+    location: "Quixadá, Ceará, Brasil 🇧🇷",
+    education: "Engenharia de Software @ UFC",
+    role: "Full Stack Developer",
+    
+    expertise: {
+        architecture: ["Clean Architecture", "Microservices", "SOLID"],
+        interests: ["Software Engineering", "UX/UI Design", "AI"],
+        learning: ["React Native", "Flutter", "AI in Software"]
+    },
+    
+    techStack: {
+        frontend: ["React", "Next.js", "Vue.js", "TypeScript"],
+        backend: ["Node.js", "Django", "FastAPI", "NestJS"],
+        database: ["PostgreSQL", "MongoDB", "Redis"],
+        devOps: ["Docker", "AWS", "GitHub Actions"]
+    },
+    
+    currentFocus: "Building scalable solutions with Clean Architecture",
+    funFact: "Café é meu combustível para código! ☕"
+};
+```
 
 </div>
 
-<br>
+<br><br>
 
 ## 💻 Stack Tecnológica
 
