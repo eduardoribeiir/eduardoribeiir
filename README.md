@@ -1,127 +1,72 @@
+<img src="./dBaSKWF.gif" width="100%"/>
+
 <div align="center">
-
-# Eduardo Ribeiro
-
-**`Full Stack Developer • Software Engineer`**
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eduardo-ribeiro-2214491a6/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardoribeiir_/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardopaivaribeiro11@gmail.com)
-
-<br>
-
-```typescript
-const eduardo = {
-  location: "Quixadá, CE 🇧🇷",
-  education: "Engenharia de Software @ UFC",
-  focus: ["Clean Architecture", "Design Patterns", "UX/UI"],
-  research: "IA aplicada à Engenharia de Requisitos"
-};
-```
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+👋+Sou+Luiz+Eduardo+Paiva+Ribeiro;Full+Stack+Developer+%7C+Software+Engineer;Clean+Architecture+%26+SOLID+Principles+🚀;Building+Scalable+Solutions+💻" alt="Typing SVG" />
 </div>
 
 <br>
-
-## Stack
-
-```javascript
-// Frontend
-const frontend = ["React", "Next.js", "Vue.js", "TypeScript", "TailwindCSS"];
-
-// Backend  
-const backend = ["Node.js", "Express", "NestJS", "Django", "FastAPI"];
-
-// Database & Tools
-const tools = ["PostgreSQL", "MongoDB", "Redis", "Docker", "AWS", "Git"];
-```
-
-<br>
-
-## Estatísticas
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=eduardoribeiir&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00ffc8&text_color=c9d1d9)
-![](https://github-readme-streak-stats.herokuapp.com/?user=eduardoribeiir&theme=dark&hide_border=true&background=0d1117&ring=00d9ff&fire=00ffc8&currStreakLabel=00d9ff)
-
+  <a href="https://www.linkedin.com/in/eduardo-ribeiro-2214491a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/eduardoribeiir_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:eduardopaivaribeiro11@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="mailto:eduardopaiva11@alu.ufc.br">
+    <img src="https://img.shields.io/badge/UFC-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="UFC Email"/>
+  </a>
+  
 </div>
 
 <br>
 
-## �️ Tech Stack
+## 🎯 Sobre Mim
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```yaml
+name: Luiz Eduardo Paiva Ribeiro
+located_in: Quixadá, Ceará, Brasil
+current_role: Estudante de Engenharia de Software
+education: Universidade Federal do Ceará (UFC)
+
+fields_of_interests:
+  - Full Stack Development
+  - Clean Architecture & SOLID
+  - Software Requirements Engineering
+  - Mobile Development
+  - Artificial Intelligence
+
+currently_learning:
+  - React Native & Flutter
+  - Microservices Architecture
+  - AI in Software Engineering
+
+hobbies:
+  - Coding 💻
+  - Problem Solving 🧩
+  - Tech Community 🚀
+  - Coffee ☕
+```
+
+<br><br><br>
+
+## 🏗️ Expertise & Princípios
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,cpp" alt="Languages" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind" alt="Frontend" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi" alt="Backend" />
-
-### Database & Cloud
-
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,docker,aws" alt="Database & Cloud" />
-
-### Tools & Others
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman" alt="Tools" />
-
-</div>
-
-<br>
-
-## 🏆 Metodologias & Princípios
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/control-panel.png" width="48" height="48"/>
-<br><strong>Clean Architecture</strong>
-<br><sub>Arquitetura limpa e desacoplada</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/brick-wall.png" width="48" height="48"/>
-<br><strong>SOLID</strong>
-<br><sub>Princípios de design orientado</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/test-tube.png" width="48" height="48"/>
-<br><strong>TDD</strong>
-<br><sub>Test-Driven Development</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/pattern.png" width="48" height="48"/>
-<br><strong>Design Patterns</strong>
-<br><sub>Padrões de projeto</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.icons8.com/fluency/96/scrum.png" width="48" height="48"/>
-<br><strong>Agile/Scrum</strong>
-<br><sub>Metodologias ágeis</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-## � GitHub Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eduardoribeiir&custom_title=Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=00ffc8&point=ffffff&area_color=0d1117&area=true&hide_border=true" />
+| 🎨 **Frontend** | ⚙️ **Backend** | 🗄️ **Database** | 🚀 **DevOps** |
+|----------------|----------------|------------------|----------------|
+| React.js | Node.js | PostgreSQL | Docker |
+| Next.js | Express | MongoDB | Git |
+| Vue.js | NestJS | MySQL | GitHub Actions |
+| TypeScript | Django | Redis | AWS |
+| TailwindCSS | FastAPI | - | CI/CD |
 
 </div>
 
@@ -129,116 +74,122 @@ const tools = ["PostgreSQL", "MongoDB", "Redis", "Docker", "AWS", "Git"];
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=eduardoribeiir&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" />
+### 💡 Metodologias & Boas Práticas
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6B6B?style=flat-square&logo=buffer&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-4ECDC4?style=flat-square&logo=code&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-95E1D3?style=flat-square&logo=jest&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-F38181?style=flat-square&logo=spoj&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile/Scrum-AA96DA?style=flat-square&logo=scrumalliance&logoColor=white)
 
 </div>
 
 <br>
 
-## � Experiência em UX/UI
+## 🚀 Skills & Tecnologias
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img height="60" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
-<br><b>Prototipação</b>
-<br><sub>Design no Figma</sub>
-</td>
-<td align="center" width="25%">
-<img height="60" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60">
-<br><b>Requisitos</b>
-<br><sub>Análise detalhada</sub>
-</td>
-<td align="center" width="25%">
-<img height="60" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
-<br><b>UX Research</b>
-<br><sub>Testes com usuários</sub>
-</td>
-<td align="center" width="25%">
-<img height="60" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
-<br><b>Design Centrado</b>
-<br><sub>Foco no usuário</sub>
-</td>
-</tr>
-</table>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 <br>
 
-## 🎨 Design & UX/UI
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eduardoribeiir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Eduardo's GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoribeiir&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="Eduardo's Streak Stats"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=eduardoribeiir&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+<br>
+
+## 🎓 Pesquisa Acadêmica
 
 <div align="center">
 
-> *"Design is not just what it looks like and feels like. Design is how it works."* — Steve Jobs
+### 📚 TCC - Trabalho de Conclusão de Curso
 
-<br>
+**"Reuso de Requisitos de Software e o Impacto do Suporte da Inteligência Artificial: Uma Revisão Sistemática da Literatura"**
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/prototype.png" width="64" height="64"/>
-<br><strong>Prototipação</strong>
-<br><sub>Wireframes e protótipos no Figma</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/checklist.png" width="64" height="64"/>
-<br><strong>Requisitos</strong>
-<br><sub>Levantamento e análise</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/user-research.png" width="64" height="64"/>
-<br><strong>UX Research</strong>
-<br><sub>Testes e validação</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/user-focus-male.png" width="64" height="64"/>
-<br><strong>User Centered</strong>
-<br><sub>Foco na experiência</sub>
-</td>
-</tr>
-</table>
+```
+🔬 Investigando como a IA pode revolucionar a Engenharia de Requisitos
+🎯 Foco em otimização do reuso e melhoria da qualidade do software
+📖 Revisão sistemática das principais pesquisas da área
+```
 
 </div>
 
 <br>
 
-## Princípios
+## 🎨 Experiência em UX/UI
+
+```
+✨ Prototipação de interfaces no Figma
+📋 Levantamento e análise de requisitos
+👥 Foco em experiência do usuário
+🎯 Design de sistemas centrados no usuário
+```
+
+<br>
+
+## 📈 Atividade Recente
 
 <div align="center">
-
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1a1a1a?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-1a1a1a?style=for-the-badge)
-![TDD](https://img.shields.io/badge/TDD-1a1a1a?style=for-the-badge)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-1a1a1a?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile/Scrum-1a1a1a?style=for-the-badge)
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </div>
 
 <br>
 
-## Pesquisa
-
-**TCC** • *Reuso de Requisitos de Software e o Impacto do Suporte da Inteligência Artificial*
-
-<br>
-
-## UX/UI
-
-Design de interfaces • Prototipação no Figma • Requisitos • Testes de usabilidade
-
-<br>
-
----
+## 💬 Frase do Momento
 
 <div align="center">
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-*"First, solve the problem. Then, write the code."*
+</div>
 
 <br>
 
-[![Visitor Badge](https://komarev.com/ghpvc/?username=eduardoribeiir&color=00d9ff&style=flat-square)](https://github.com/eduardoribeiir)
+<div align="center">
+  
+### ⚡ *"First, solve the problem. Then, write the code."* - John Johnson
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=eduardoribeiir&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
+<br>
+
+<img src="./dBaSKWF.gif" width="100%"/>
