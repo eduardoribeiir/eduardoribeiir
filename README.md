@@ -35,117 +35,23 @@
 
 ## 🎯 Sobre Mim
 
-<div align="center">
-  
-<table>
-<tr>
-<td width="60%" valign="top">
+Sou **Luiz Eduardo Paiva Ribeiro**, estudante de **Engenharia de Software** na **Universidade Federal do Ceará (UFC)**. Desenvolvedor Full Stack apaixonado por criar soluções tecnológicas escaláveis, com foco em Clean Architecture e boas práticas de desenvolvimento.
 
-Olá! 👋 Sou **Luiz Eduardo Paiva Ribeiro**, estudante de **Engenharia de Software** pela **Universidade Federal do Ceará (UFC)**. Apaixonado por tecnologia e inovação, transformo ideias em soluções digitais robustas e escaláveis.
+### 💡 Minhas Áreas de Atuação
 
-### 💼 Minha Jornada
+- **Frontend Development**: React, Next.js, Vue.js, TypeScript
+- **Backend Development**: Node.js, Django, FastAPI, NestJS  
+- **Mobile Development**: React Native, Flutter
+- **DevOps & Cloud**: Docker, AWS, CI/CD
+- **UX/UI Design**: Prototipação e design de interfaces no Figma
 
-Com experiência sólida em **desenvolvimento Full Stack**, atuo desde a concepção até a entrega de produtos digitais, sempre priorizando **qualidade de código**, **arquitetura limpa** e **experiência do usuário**. Meu diferencial está na capacidade de unir conhecimentos técnicos profundos com visão estratégica de produto.
+### 🎓 Pesquisa & Desenvolvimento
 
-</td>
-<td width="40%" valign="top">
+Atualmente desenvolvo meu TCC sobre **"Reuso de Requisitos de Software e o Impacto do Suporte da Inteligência Artificial"**, explorando como a IA pode revolucionar a Engenharia de Requisitos e melhorar a qualidade do software.
 
-<div align="center">
-  
-### 📌 Quick Stats
+### 🚀 O que me motiva
 
-```text
-📍 Quixadá, CE - Brasil
-🎓 Engenharia de Software
-🏛️ UFC - Universidade Federal
-💼 Full Stack Developer
-🧠 Clean Architecture
-☕ Coffee Driven Developer
-```
-
-<img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=00d9ff"/>
-<img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=00ffc8"/>
-<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=00d9ff"/>
-<img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=00ffc8"/>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Especialidades
-
-```yaml
-Desenvolvimento:
-  Frontend: React, Next.js, Vue.js
-  Backend: Node.js, Django, FastAPI
-  Mobile: React Native, Flutter
-  
-Arquitetura:
-  - Clean Architecture
-  - Microservices
-  - Design Patterns
-  - SOLID Principles
-  
-DevOps:
-  - Docker & Kubernetes
-  - CI/CD Pipelines
-  - AWS Cloud Services
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Foco Atual
-
-```yaml
-Estudando:
-  - React Native & Flutter
-  - Microservices Architecture
-  - AI in Software Engineering
-  
-Pesquisando:
-  - IA em Engenharia de Requisitos
-  - Reuso de Componentes
-  - Software Quality Metrics
-  
-Desenvolvendo:
-  - Projetos Open Source
-  - Aplicações Escaláveis
-  - Interfaces Intuitivas
-```
-
-</td>
-</tr>
-</table>
-
-<div align="left">
-
-### 🌟 O que me move
-
-- 💻 **Código Limpo**: Acredito que código bem escrito é código que conta uma história
-- 🏗️ **Arquitetura Sólida**: Construo sistemas pensando em escalabilidade e manutenibilidade
-- 🎨 **UX/UI**: Design não é apenas como parece, mas como funciona
-- 🤖 **IA & Inovação**: Explorando como a inteligência artificial pode revolucionar a engenharia de software
-- 📚 **Aprendizado Contínuo**: Sempre buscando novos desafios e conhecimentos
-
-### ⚡ Curiosidades
-
-- ☕ Programo melhor com uma boa xícara de café ao lado
-- 🎓 Desenvolvendo pesquisa acadêmica sobre IA e Engenharia de Requisitos
-- 🎯 Apaixonado por resolver problemas complexos com soluções elegantes
-- 🌱 Contribuo para a comunidade tech através de projetos open source
-
-</div>
+Busco constantemente aprender novas tecnologias e aplicar os princípios SOLID e Clean Architecture em projetos reais. Acredito que código bem escrito é código que comunica sua intenção claramente, e que a melhor solução é sempre a mais simples que resolve o problema.
 
 <br>
 
