@@ -35,39 +35,41 @@
 
 ## 🎯 Sobre Mim
 
+<<<<<<< HEAD
+<img align="right" alt="Developer" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+=======
 <img align="right" alt="Baby Yoda Coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBjYzFwNGFxZmxhcWcwcXl2aDFxMGp3cGRtN2pxdHQ0YnQ4YzVodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/krkrHAEodHgzP72rTI/giphy.gif">
+>>>>>>> 55bc8a988bed867998a08c835557412249f129d3
 
-<div align="left">
+👨‍💻 **Engenheiro de Software** em formação pela **Universidade Federal do Ceará (UFC)**, com paixão por desenvolver soluções escaláveis e de alta qualidade.
 
-```typescript
-const eduardo = {
-    name: "Luiz Eduardo Paiva Ribeiro",
-    location: "Quixadá, Ceará, Brasil 🇧🇷",
-    education: "Engenharia de Software @ UFC",
-    role: "Full Stack Developer",
-    
-    expertise: {
-        architecture: ["Clean Architecture", "Microservices", "SOLID"],
-        interests: ["Software Engineering", "UX/UI Design", "AI"],
-        learning: ["React Native", "Flutter", "AI in Software"]
-    },
-    
-    techStack: {
-        frontend: ["React", "Next.js", "Vue.js", "TypeScript"],
-        backend: ["Node.js", "Django", "FastAPI", "NestJS"],
-        database: ["PostgreSQL", "MongoDB", "Redis"],
-        devOps: ["Docker", "AWS", "GitHub Actions"]
-    },
-    
-    currentFocus: "Building scalable solutions with Clean Architecture",
-    funFact: "Café é meu combustível para código! ☕"
-};
-```
+💡 Especializado em **Full Stack Development** com foco em **Clean Architecture** e **SOLID Principles**, sempre buscando as melhores práticas de engenharia de software.
 
-</div>
+🎯 **Áreas de Interesse:**
+- Desenvolvimento Full Stack (React, Node.js, Python)
+- Arquitetura de Software e Padrões de Design
+- Engenharia de Requisitos de Software
+- Inteligência Artificial aplicada ao desenvolvimento
+- UX/UI Design e prototipação
 
-<br><br>
+🌱 **Atualmente aprendendo:**
+- React Native & Flutter para desenvolvimento mobile
+- Arquitetura de Microserviços
+- IA aplicada à Engenharia de Software
 
+<<<<<<< HEAD
+🚀 **Experiência:**
+- Desenvolvimento de aplicações web full stack
+- Prototipação e design de interfaces no Figma
+- Trabalho com metodologias ágeis (Scrum)
+- Pesquisa acadêmica em IA e Engenharia de Requisitos
+
+⚡ **Fun fact:** Meu combustível para código é café! ☕
+
+<br>
+
+=======
+>>>>>>> 55bc8a988bed867998a08c835557412249f129d3
 ## 💻 Stack Tecnológica
 
 <table align="center">
