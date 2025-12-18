@@ -1,7 +1,7 @@
 <img src="./dBaSKWF.gif" width="100%"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2800&pause=800&color=00F7F7&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+Eu+sou+Eduardo+Ribeiro;Full+Stack+Developer+%F0%9F%92%BB;Software+Engineer8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2800&pause=800&color=00F7F7&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+Eu+sou+Eduardo+Ribeiro;Full+Stack+Developer+%F0%9F%92%BB;Software+Engineer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
