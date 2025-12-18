@@ -4,7 +4,7 @@
 
 <div align="center">
   
-# 👋 E aí! Eu sou o Luiz Eduardo Paiva Ribeiro
+# 👋 E aí! Eu sou o Luiz Eduardo
 
 ### 🎓 Estudante de Engenharia de Software | 💻 Dev Full Stack
 
