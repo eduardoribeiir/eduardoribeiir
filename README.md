@@ -260,18 +260,6 @@ Sou estudante de <strong>Engenharia de Software</strong> na Universidade Federal
 
 <br>
 
-## 💬 Frase Inspiradora
-
-<div align="center">
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson)
-
-</div>
-
-<br>
-
-<div align="center">
-
 ## 🌟 Vamos Construir Algo Incrível Juntos?
 
 <p>
@@ -294,6 +282,3 @@ Sou estudante de <strong>Engenharia de Software</strong> na Universidade Federal
 </div>
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Obrigado%20pela%20visita!%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
-
