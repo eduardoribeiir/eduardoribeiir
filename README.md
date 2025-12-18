@@ -1,7 +1,5 @@
-<img src="./dBaSKWF.gif" width="100%"/>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2800&pause=800&color=00F7F7&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+Eu+sou+Eduardo+Ribeiro;Full+Stack+Developer+%F0%9F%92%BB;Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2800&pause=800&color=00F7F7&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+Eu+sou+Luiz+Eduardo+Paiva+Ribeiro;Full+Stack+Developer+%F0%9F%92%BB;Software+Engineer+%7C+Clean+Arch+%F0%9F%8F%97%EF%B8%8F;Building+Scalable+Solutions+%F0%9F%9A%80;Transforming+Ideas+into+Code+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -35,9 +33,9 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Sobre Mim
+## 🎯 Sobre Mim
 
-<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Baby Yoda Coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBjYzFwNGFxZmxhcWcwcXl2aDFxMGp3cGRtN2pxdHQ0YnQ4YzVodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/krkrHAEodHgzP72rTI/giphy.gif">
 
 <div align="left">
 
@@ -70,7 +68,7 @@ const eduardo = {
 
 <br><br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Stack Tecnológica
+## 💻 Stack Tecnológica
 
 <table align="center">
   <tr>
@@ -127,7 +125,7 @@ const eduardo = {
 
 <br>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tecnologias Completas
+## 🚀 Tecnologias Completas
 
 <details open>
 <summary><b>👨‍💻 Linguagens de Programação</b></summary>
@@ -192,7 +190,7 @@ const eduardo = {
 
 <br>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -222,7 +220,7 @@ const eduardo = {
 
 <br>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Pesquisa Acadêmica
+## 🎓 Pesquisa Acadêmica
 
 <table align="center">
   <tr>
@@ -250,7 +248,7 @@ const eduardo = {
 
 <br>
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Experiência em UX/UI
+## 🎨 Experiência em UX/UI
 
 <div align="center">
 
