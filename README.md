@@ -48,10 +48,6 @@ Sou estudante de <strong>Engenharia de Software</strong> na Universidade Federal
 
 <img src="./dBaSKWF.gif" width="100%"/>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2800&pause=800&color=00F7F7&center=true&vCenter=true&width=940&lines=Hey+%F0%9F%91%8B+Eu+sou+Eduardo+Ribeiro;Full+Stack+Developer+%F0%9F%92%BB;Software+Engineer" alt="Typing SVG" />
-</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00d9ff?style=for-the-badge&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/Location-Quixad%C3%A1%2C%20CE-00ffc8?style=for-the-badge&logo=google-maps&logoColor=white" />
