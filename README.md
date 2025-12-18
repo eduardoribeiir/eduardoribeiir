@@ -6,7 +6,7 @@
   
 # 👋 E aí! Eu sou o Luiz Eduardo
 
-### 🎓 Estudante de Engenharia de Software | 💻 Dev Full Stack
+### Estudante de Engenharia de Software | Dev Full Stack
 
 <br>
 
